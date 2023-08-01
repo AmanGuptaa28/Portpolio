@@ -1,0 +1,55 @@
+#header{
+    width: 100%;
+    background-color: red;
+    border: 0px;
+}
+.navbar{
+    font-family: verdana;
+    font-size: 30px;
+    color: yellow;
+    text-decoration: none;
+}
+#home{
+    border: 2px;
+    width: 100%;
+    background-color: black;
+}
+.insidehome{
+    border: 0px;
+    align-items: center;
+    width: 90%;
+    margin-left: 3cm;
+}
+#about{
+    border: 0px;
+    width: 100%;
+    background-color: gray;
+}
+.insideabout{
+    border: 0px;
+    width: 80%;
+    align-items: center;
+    margin: auto;
+}
+#projects{
+    width: 100%;
+    border: 0px;
+    background-color:black;
+}
+.a{
+    font-size: 30px;
+    font-weight: 1200;
+}
+.a:hover{
+    color: black;
+}
+#achievementss{
+    width: 100%;
+    border: 0px;
+    background-color: gray;
+}
+#contact{
+    background-color: black;
+    border: 0px;
+    width: 100%;
+}
